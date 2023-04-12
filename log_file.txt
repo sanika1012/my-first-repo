@@ -1,0 +1,11 @@
+commit 0d97d07ed3d7b6f04e0b5a94c3e682e302c98d09
+Author: Sanika shinde <shindesanika865@gmail.com>
+Date:   Wed Apr 12 11:08:03 2023 +0530
+
+    added gitignore
+
+commit c1318677a75ff195f4542cfe0e0b4fa15ce2f2be
+Author: Sanika shinde <shindesanika865@gmail.com>
+Date:   Wed Apr 12 10:23:11 2023 +0530
+
+    added Readme.txt
